@@ -8,7 +8,9 @@
 
 ความเร็ว 20MHz
 
-พอร์ต ADCs 10bits
+หน่วยความจำ RAM 1 kB
+
+พอร์ท ADCs 10bits
 
 ## STM32F103C8T6
 
@@ -18,7 +20,9 @@
 
 ความเร็ว 72MHz
 
-พอร์ต 10 Channels of 12-bit ADC
+หน่วยความจำ RAM 20kB
+
+พอร์ท 10 Channels of 12-bit ADC
 
 ## NRF52840
 
@@ -28,7 +32,9 @@
 
 ความเร็ว 64 MHz
 
-พอร์ต 12-bit/200KSPS ADC
+หน่วยตวามจำ RAM 256kB
+
+พอร์ท 12-bit/200KSPS ADC
 
 ## LPC2292FBD144/01,5
 
@@ -38,7 +44,9 @@
 
 ความเร็ว 60MHz
 
-พอร์ต ADC 10bit
+หน่วยความจำ RAM 16kB
+
+พอร์ท ADC 10bit
 
 ## AB32VG1 RISC-V
 
@@ -48,4 +56,6 @@
 
 ความเร็ว 120MHz
 
-พอร์ต UART, ADC, PWM, HIC ฯลฯ
+หน่วยความจำ RAM 192kB
+
+พอร์ท UART, ADC, PWM, HIC ฯลฯ

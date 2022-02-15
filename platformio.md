@@ -31,3 +31,11 @@
 2.คลิก download และเลือกwindows installer
 
 3.เปิดแถบdownload แล้วกดติดตั้ง
+
+## ติดตั้งplatformio
+
+1.เปิด command prompt
+
+2.รันคำสั่ง pip install-U platformio
+
+3.ตรวจสอบว่าติดตั้งเรียบร้อยโดยการรับคำสั่ง platformio
